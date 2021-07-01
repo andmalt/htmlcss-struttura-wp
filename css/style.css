@@ -8,12 +8,12 @@
 }
 /* -- header -- */
 #header-pink{
-    height: 80px;
+    height: 100px;
     background-color: rgb(236, 103, 154);    
 }
 /* -- main -- */
 #yellow-container{
-    height: 240px;
+    height: 250px;
     background-color: rgb(223, 223, 19);
     margin: 20px auto;
 }
@@ -52,7 +52,7 @@
 }
 /* --- footer --- */
 #violet-footer{
-    height: 80px;
+    height: 60px;
     background-color: rgb(122, 0, 122);
 }
 
